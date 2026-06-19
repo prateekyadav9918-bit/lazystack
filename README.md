@@ -1,6 +1,6 @@
 # lazystack
-ANDROID PDF VIEWER APK RELEASE
-Lazy Reader
+
+Lazy Reader Release hybrid AI-assisted reading app with TTS, Focus Mode, and smart word lookup.
 
 Lazy Reader is a hybrid of on device and online ai-model assisted reading application designed for books, PDFs, essays, research papers, and long-form articles. Instead of simply displaying pages, it transforms documents into a cleaner, more readable experience while providing intelligent reading and listening tools.
 
